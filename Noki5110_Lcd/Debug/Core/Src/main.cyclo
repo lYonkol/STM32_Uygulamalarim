@@ -1,0 +1,17 @@
+../Core/Src/main.c:356:6:LCD_SendCommand	1
+../Core/Src/main.c:365:6:LCD_SendData	1
+../Core/Src/main.c:374:6:LCD_Clear	2
+../Core/Src/main.c:385:6:LCD_Init	1
+../Core/Src/main.c:401:6:LCD_WriteChar	2
+../Core/Src/main.c:411:6:LCD_WriteString	2
+../Core/Src/main.c:416:6:LCD_SetCursor	1
+../Core/Src/main.c:422:6:LCD_DrawBitmap	3
+../Core/Src/main.c:433:6:LCD_DrawIcon	2
+../Core/Src/main.c:440:6:SHT31_ReadTempHum	1
+../Core/Src/main.c:457:6:LCD_DisplayTempHum	1
+../Core/Src/main.c:483:5:main	1
+../Core/Src/main.c:533:6:SystemClock_Config	3
+../Core/Src/main.c:580:13:MX_I2C1_Init	2
+../Core/Src/main.c:614:13:MX_SPI1_Init	2
+../Core/Src/main.c:652:13:MX_GPIO_Init	1
+../Core/Src/main.c:685:6:Error_Handler	1
